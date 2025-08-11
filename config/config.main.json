@@ -2,7 +2,7 @@
     "APPSTATE_PATH": "./appstate.json",
     "APPSTATE_PROTECTION": true,
     "AUTO_PING_SERVER": true,
-    "ALLOW_INBOX": false,
+    "ALLOW_INBOX": true,
     "DATABASE": "JSON",
     "DATABASE_JSON_BEAUTIFY": true,
     "FCA_OPTIONS": {
@@ -14,7 +14,7 @@
         "userAgent": "Mozilla/5.0 (Linux; Android 9; SM-G973U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.3",
         "online": true
     },
-    "LANGUAGE": "en_US",
+    "LANGUAGE": "ar_SD",
     "LOG_LEVEL": 1,
     "MODERATORS": [
         "MOD_UID"
@@ -22,8 +22,8 @@
     "ABSOLUTES": [
         "AB_UID"
     ],
-    "NAME": "NAME_OF_BOT",
-    "PREFIX": "PREFIX_HERE",
-    "timezone": "Asia/Manila",
+    "NAME": "Zool-AI",
+    "PREFIX": ",",
+    "timezone": "Africa/Khartoum",
     "REFRESH": "43200000"
 }
